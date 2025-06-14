@@ -1,3 +1,12 @@
+## Como executar a API
+
+Tendo o Python3 e Python3-pip instalado, com seu terminal dentro da pasta api onde se localiza o codigo execute os seguintes comandos:
+
+```
+pip install -r requirements.txt
+python3 app.py
+```
+
 ## Rotas de usuários: 
 
 Listar usuários:
